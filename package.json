@@ -22,6 +22,8 @@
     ]
   },
   "dependencies": {
+    "@fontsource-variable/noto-sans-jp": "^5.2.5",
+    "@fontsource/pt-serif-caption": "^5.2.5",
     "@upleveled/react-scripts": "5.1.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

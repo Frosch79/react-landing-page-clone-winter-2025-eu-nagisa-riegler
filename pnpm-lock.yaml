@@ -8,6 +8,12 @@ importers:
 
   .:
     dependencies:
+      '@fontsource-variable/noto-sans-jp':
+        specifier: ^5.2.5
+        version: 5.2.5
+      '@fontsource/pt-serif-caption':
+        specifier: ^5.2.5
+        version: 5.2.5
       '@upleveled/react-scripts':
         specifier: 5.1.2
         version: 5.1.2(@types/babel__core@7.20.5)(eslint@8.57.1)(react@19.1.0)(sass@1.86.3)(type-fest@4.39.1)(typescript@5.8.3)
@@ -967,6 +973,12 @@ packages:
   '@eslint/js@8.57.1':
     resolution: {integrity: sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+
+  '@fontsource-variable/noto-sans-jp@5.2.5':
+    resolution: {integrity: sha512-+ieDlugS+FCva2eLahVgybiaPMs1xLcBYByflzw1WghvFPFNJzsQHw85N+dadXzaqccVTiVDGYW4E0bMv4CHAQ==}
+
+  '@fontsource/pt-serif-caption@5.2.5':
+    resolution: {integrity: sha512-8tI28FIKu41CuJmEUlsngh0pkwIk26aMOcVHvp0lM1eSZdmRiRRyd5mqYWVZb5/phPUmWIzAIiGrS/vjkmHkOg==}
 
   '@humanwhocodes/config-array@0.13.0':
     resolution: {integrity: sha512-DZLEEqFWQFiyK6h5YIeynKx7JlvCYWL0cImfSRXZ9l4Sg2efkFGTuFf6vzXjK1cq6IYkU+Eg/JizXw+TD2vRNw==}
@@ -7068,6 +7080,10 @@ snapshots:
       - supports-color
 
   '@eslint/js@8.57.1': {}
+
+  '@fontsource-variable/noto-sans-jp@5.2.5': {}
+
+  '@fontsource/pt-serif-caption@5.2.5': {}
 
   '@humanwhocodes/config-array@0.13.0':
     dependencies:
